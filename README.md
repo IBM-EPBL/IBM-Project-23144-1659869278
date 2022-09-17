@@ -1,5 +1,5 @@
                                      **Introduction:**
-    Almost every bank's fundamental business is loan distribution. The majority of the bank's assets 
+  Almost every bank's fundamental business is loan distribution. The majority of the bank's assets 
 are directly derived from the profit made from the loans distributed by the bank. The primary goal in the 
 banking industry is to place their funds in safe hands. Today, many banks/financial organizations grant 
 loans following a lengthy verification and validation process, but there is no guarantee that the chosen 
