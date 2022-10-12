@@ -48,9 +48,11 @@ age, marital status, gender, etc. The prediction model not only helps the applic
 but also helps the bank by minimizing the risk and reducing the number of 
 defaulters. Banks need to analyze for the person who applies for the loan will 
 repay the loan or not.</p>
+
 ### Less time consumption
 <p>Bankers cannot analyze the huge amounts of data manually; it may 
 become a big process to check whether a person will repay its loan or not. With our model the prediction will be done in less amount of time</p>
+
 ### Increase efficiency
 <p> Starting with the loan application, the digital lending platform 
 manages every step of the loan origination process. It facilitates more efficient 
@@ -58,4 +60,9 @@ monetary transactions and a smooth money lending process. It also aids banking
 organizations in increasing productivity by transforming the entire work process.</p>
 
 ## Project workflow:
-<img src="C:\Users\anuvi\OneDrive\Desktop\IBM\Screenshot 2022-10-12 110151.png">
+![Screenshot 2022-10-12 110151](https://user-images.githubusercontent.com/79737435/195258374-45a9df32-d8e9-4f6d-a73a-f5a7d6bbaf48.png)
+
+## Project architecture:
+![image](https://user-images.githubusercontent.com/79737435/195258519-56d1f5f0-04e6-40c6-a7a3-dbfeda0e30f3.png)
+
+
