@@ -1,12 +1,12 @@
  # Smart Lender
  ## Introduction:
- <p> <blockquote>Almost every bank's fundamental business is loan distribution. The majority of the bank's assets 
+ <p>&nbsp;&nbsp; Almost every bank's fundamental business is loan distribution. The majority of the bank's assets 
 are directly derived from the profit made from the loans distributed by the bank. The primary goal in the 
 banking industry is to place their funds in safe hands. Today, many banks/financial organizations grant 
 loans following a lengthy verification and validation process, but there is no guarantee that the chosen 
 applicant is the most deserving of all applicants. We can forecast whether a given application is safe or not 
 using this approach, and the entire feature validation procedure is automated using machine learning 
-techniques such as Exploratory Data Analysis, Feature Engineering, Logistic Regression.</blockquote></p>
+techniques such as Exploratory Data Analysis, Feature Engineering, Logistic Regression.</p>
   There are numerous hazards associated with bank loans, both for the bank and for those who obtain 
 them. Risk analysis in bank loans necessitates an awareness of what risk entails. Risk refers to the likelihood 
 of specific outcomes—or the uncertainty of those outcomes—particularly a current negative danger to 
