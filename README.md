@@ -1,4 +1,5 @@
-                                          Introduction:
+ #Smart Lender
+ ##Introduction:
   Almost every bank's fundamental business is loan distribution. The majority of the bank's assets 
 are directly derived from the profit made from the loans distributed by the bank. The primary goal in the 
 banking industry is to place their funds in safe hands. Today, many banks/financial organizations grant 
@@ -23,3 +24,19 @@ in this era has revealed that there are numerous methods for studying the proble
 However, because accurate predictions are critical for profit maximization, it is critical to investigate the 
 nature of the various methods and compare them. In this paper, various machine learning algorithms that 
 have been used in past are discussed and their accuracy is evaluated
+
+##Motivation:
+  The main motivation behind this application is to make the process of loan credibility easier. Because today it will take plenty of time to check if the person is 
+applicable for loan or not. As they need to check each document manually. It will be disheartening for people to know if their loan is rejected even after spending 
+lots of time. Hence, we plan to make this process of prediction easy and automated. The users will get results almost accurately and quickly.
+Most of the loan prediction app today uses only CIBIL score to predict the 
+borrower’s credibility. But even with CIBIL score above 700 many are rejected 
+loan. So, we decided to create an application which not only consider CIBIL scores 
+but also Gender, Marital Status, Education, Number of Dependents, Income, Loan 
+Amount, Credit history, etc., and decide if they are creditworthy.
+The application we are going to create, will save a lot of time and energy of 
+the applicant as well as the bank. As the applicants don’t need to travel to banks 
+and wait for long hours to check if they are credible and the banks also don’t need 
+to manually check the user’s documents which will take a plenty of time. The 
+model we are going to develop helps the bank as well as the users in predicting the 
+user’s loan credibility
