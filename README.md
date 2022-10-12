@@ -1,5 +1,5 @@
- #Smart Lender
- ##Introduction:
+ # Smart Lender
+ ## Introduction:
   Almost every bank's fundamental business is loan distribution. The majority of the bank's assets 
 are directly derived from the profit made from the loans distributed by the bank. The primary goal in the 
 banking industry is to place their funds in safe hands. Today, many banks/financial organizations grant 
@@ -25,7 +25,7 @@ However, because accurate predictions are critical for profit maximization, it i
 nature of the various methods and compare them. In this paper, various machine learning algorithms that 
 have been used in past are discussed and their accuracy is evaluated
 
-##Motivation:
+## Motivation:
   The main motivation behind this application is to make the process of loan credibility easier. Because today it will take plenty of time to check if the person is 
 applicable for loan or not. As they need to check each document manually. It will be disheartening for people to know if their loan is rejected even after spending 
 lots of time. Hence, we plan to make this process of prediction easy and automated. The users will get results almost accurately and quickly.
