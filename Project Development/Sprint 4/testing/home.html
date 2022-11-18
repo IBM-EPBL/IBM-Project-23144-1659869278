@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>SMART LENDER</title>
+    <style>
+        @import url("https://fonts.googleapis.com/css2?family=Aref+Ruqaa+Ink:wght@700&display=swap");
+        @import url("https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap");
+        @import url("https://fonts.googleapis.com/css2?family=Antic+Slab&display=swap");
+
+        html {
+            user-select: none;
+        }
+
+        body {
+            margin-top: 5%;
+            color: white;
+            
+        }
+
+        html {
+            
+            /* background-image: linear-gradient(to right top, #d16ba5, #c777b9, #ba83ca, #aa8fd8, #9a9ae1, #8aa7ec, #79b3f4, #69bff8, #52cffe, #41dfff, #46eefa, #5ffbf1); */
+            background: linear-gradient(#36d1dc, #5b86e5);
+            height: 100%;
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: cover;
+            object-fit: cover;
+        }
+
+        h1 {
+            font-size: 45px;
+            font-family: "Aref Ruqaa Ink", serif;
+        }
+
+        h3 {
+            font-size: 20px;
+            font-family: "Antic Slab", serif;
+        }
+
+        h6 {
+            font-size: 20px;
+            font-family: "Antic Slab", serif;
+        }
+
+
+        .container,
+        .container:before,
+        .container:after {
+            box-sizing: border-box;
+            padding: 0;
+            margin: 0;
+            font: 300 1em/1.5 "Open Sans", "Helvetica Neue", Arial, sans-serif;
+            text-decoration: none;
+            color: #111;
+        }
+
+        .btn {
+            background: rgba(236, 240, 241, 0.425);
+        }
+
+        .container {
+            min-width: 500px;
+            margin: 5% auto;
+            text-align: center;
+        }
+
+        button:hover {
+            cursor: pointer;
+        }
+
+        button {
+            background: transparent;
+            outline: none;
+            position: relative;
+            border: 3px solid #fff;
+            padding: 15px 50px;
+            overflow: hidden;
+            border-radius: 10px;
+            font-family: "Aref Ruqaa Ink", serif;
+        }
+
+       
+        button:hover:before {
+            opacity: 1;
+            transform: translate(0, 0);
+        }
+
+        button:before {
+            content: attr(data-hover);
+            position: absolute;
+            top: 1.1em;
+            left: 0;
+            width: 100%;
+            text-transform: uppercase;
+            letter-spacing: 3px;
+            font-weight: 800;
+            font-size: 0.8em;
+            opacity: 0;
+            
+            
+        }
+
+
+        button div {
+            text-transform: uppercase;
+            letter-spacing: 3px;
+            font-weight: 800;
+            font-size: 0.8em;
+            
+        }
+
+        
+
+        @media only screen and (max-width: 600px) {
+
+            html {
+                width: 100% !important;
+            }
+
+            body {
+                margin-top: 110px;
+            }
+
+            h1 {
+                font-size: 40px;
+            }
+
+            h3 {
+                font-size: 15px;
+            }
+
+            .container {
+                min-width: 200px;
+            }
+
+            .btn {
+                margin-right: 2vh;
+            }
+
+            #d {
+                letter-spacing: 0px;
+                font-size: 14px;
+            }
+
+            #p {
+                letter-spacing: 0px;
+                font-size: 14px;
+            }
+
+            
+
+        }
+    </style>
+</head>
+
+<body>
+    <main>
+        <center>
+            <h1>WELCOME TO SMART PREDICTOR</h1>
+            <br>
+            <h3>Check your loan credibility here</h3>
+            <h6>
+                Click the  Predict  button and enter your details to get the prediction
+            </h6>
+
+            <div class="container">
+                <a href="predict.html">
+                    <button style="color: #ffffff ;" class="btn"  onclick="predict.html">
+                        <div>Predict</div>
+                    </button>
+                   
+                </a>
+            </div>
+
+            
+        </center>
+    </main>
+</body>
+
+</html>
